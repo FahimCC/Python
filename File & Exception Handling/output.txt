@@ -1,0 +1,4 @@
+0.5
+Cannot divide by zero
+0.0
+Unsupported type. Did you use string?
